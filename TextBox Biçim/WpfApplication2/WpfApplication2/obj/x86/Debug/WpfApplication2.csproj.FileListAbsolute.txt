@@ -1,0 +1,26 @@
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\App.g.cs
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+C:\Users\bilisim\Desktop\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.baml
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\App.g.cs
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\TextBox Biçim\WpfApplication2\WpfApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
