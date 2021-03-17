@@ -1,0 +1,5 @@
+C:\Users\bilisim\Desktop\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\bilisim\Desktop\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\bilisim\Desktop\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bilisim\Desktop\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+C:\Users\bilisim\Desktop\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
