@@ -1,3 +1,2 @@
-# NTP
 
-Lisede derste öğrendiğim ve sonradan yazdığım programlar
+C# eğitimi için yaptığım uygulamalar
